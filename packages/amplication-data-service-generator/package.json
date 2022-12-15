@@ -106,7 +106,7 @@
     "eslint-plugin-react": "7.24.0",
     "eslint-plugin-react-hooks": "4.2.0",
     "eslint-plugin-testing-library": "3.10.2",
-    "express": "4.17.1",
+    "express": "4.17.3",
     "get-port": "6.0.0",
     "graphql-type-json": "0.3.2",
     "jest": "27.0.6",
