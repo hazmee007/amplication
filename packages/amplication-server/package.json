@@ -82,7 +82,7 @@
     "nest-morgan": "1.0.1",
     "nest-winston": "1.6.2",
     "nestjs-prisma": "0.14.3",
-    "node-jose": "2.0.0",
+    "node-jose": "2.2.0",
     "octokit": "1.7.1",
     "octokit-plugin-create-pull-request": "3.9.3",
     "passport": "0.5.2",
